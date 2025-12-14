@@ -25,7 +25,7 @@ This project is an interactive Power BI dashboard built to analyze mobile phone 
 1-minute interactive dashboard walkthrough (see video or LinkedIn post)
 
 ## 📷 Preview
-(Add dashboard screenshots here)
+[Dashboard](screenshot1.png)
 
 ## 📈 Key Insights
 - Certain cities contribute significantly to overall revenue
