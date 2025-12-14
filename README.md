@@ -22,7 +22,7 @@ This project is an interactive Power BI dashboard built to analyze mobile phone 
 - Payment method distribution
 
 ## 🎥 Demo
-1-minute interactive dashboard walkthrough (see video or LinkedIn post)
+1-minute interactive dashboard walkthrough (see LinkedIn post)
 
 ## 📷 Preview
 [Dashboard](Screenshot1)
